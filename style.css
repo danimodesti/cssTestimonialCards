@@ -67,7 +67,7 @@ cite {
     width: 100%;
     gap: 1.5rem;
     align-items: stretch;
-    justify-self: center;
+    margin-inline: auto;
     max-width: 840px;
 }
 
